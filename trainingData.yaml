@@ -1,0 +1,9 @@
+train: ./train
+val: ./val
+nc: 5
+names:
+  0: AP
+  1: CLAMP
+  2: AP DAMAGE
+  3: OBSTRUCTION
+  4: BAROMETER
